@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3471330387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b837574b9a4706b46c2848fabe31c231
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleRes/Textures/SimpleZombies_BeachBabe.png
+Dependencies: []

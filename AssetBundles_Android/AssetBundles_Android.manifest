@@ -1,0 +1,139 @@
+ManifestFileVersion: 0
+CRC: 2646688126
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: main_menu.unity3d
+      Dependencies:
+        Dependency_0: sheriff.unity3d
+        Dependency_1: housewife.unity3d
+        Dependency_2: prostitute_pink.unity3d
+    Info_1:
+      Name: map_1.unity3d
+      Dependencies:
+        Dependency_0: businessman_blue.unity3d
+        Dependency_1: special_forces.unity3d
+        Dependency_2: sheriff.unity3d
+        Dependency_3: streetman_green.unity3d
+        Dependency_4: redneck_blue.unity3d
+        Dependency_5: housewife.unity3d
+        Dependency_6: prostitute_pink.unity3d
+        Dependency_7: doctor.unity3d
+        Dependency_8: homeless_black.unity3d
+        Dependency_9: robber.unity3d
+        Dependency_10: waitress.unity3d
+        Dependency_11: homeless_blue.unity3d
+        Dependency_12: ranger.unity3d
+        Dependency_13: prostitute_turquoise.unity3d
+        Dependency_14: redneck_brown.unity3d
+        Dependency_15: postman.unity3d
+        Dependency_16: pimp.unity3d
+        Dependency_17: businessman_green.unity3d
+        Dependency_18: nazi.unity3d
+        Dependency_19: beachbabe_turquoise.unity3d
+        Dependency_20: roadworker.unity3d
+        Dependency_21: fireman.unity3d
+        Dependency_22: police.unity3d
+        Dependency_23: punk_leather.unity3d
+        Dependency_24: punk_denim.unity3d
+        Dependency_25: homeless_green.unity3d
+    Info_2:
+      Name: businessman_blue.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: emo.unity3d
+      Dependencies: {}
+    Info_4:
+      Name: special_forces.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: sheriff.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: streetman_green.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: redneck_blue.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: housewife.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: prostitute_pink.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: doctor.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: homeless_black.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: robber.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: waitress.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: homeless_blue.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: ranger.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: prostitute_turquoise.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: redneck_brown.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: mercenary.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: postman.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: pimp.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: businessman_green.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: minesweeper.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: nazi.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: commando.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: beachbabe_turquoise.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: biker.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: roadworker.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: fireman.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: police.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: hippie.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: punk_leather.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: punk_denim.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: homeless_green.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: mainmenu_wasteland
+      Dependencies:
+        Dependency_0: housewife.unity3d

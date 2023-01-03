@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 25420857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df1ff07769c630f12089aa30b71455b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleRes/Textures/SimplePeople_Pimp.png
+Dependencies: []

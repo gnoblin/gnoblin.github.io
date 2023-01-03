@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2753702567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8fbbafaa6ff1086d64f0707e3ca14bf1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleRes/Textures/SimplePeople_HouseWife.png
+Dependencies: []

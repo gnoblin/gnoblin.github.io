@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 666312841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 621935804302545e36d5b185dee5fced
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleRes/Textures/SimpleCitizens_Emo_White.png
+Dependencies: []

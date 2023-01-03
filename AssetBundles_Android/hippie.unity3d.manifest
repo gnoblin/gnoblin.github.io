@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3889053928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4e2d38e7ad8de232057902ef1f78e15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleRes/Textures/SimpleCitizens_Hippie_White.png
+Dependencies: []

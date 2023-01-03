@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4148114292
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0a4d57a75431bd10980bb5a4a3ee6f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleRes/Textures/SimpleZombies_03.png
+Dependencies: []

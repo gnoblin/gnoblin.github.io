@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2128928784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 82c69a8464d8682ba1d004b7ddd538a4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleRes/Textures/SimplePeople_Sheriff.png
+Dependencies: []
