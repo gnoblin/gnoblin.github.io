@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 643092976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e173db15f49814dc5f229ccce159754d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fd99c5e9ad8f0f80da6ba03142e9c82
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleRes/Textures/SimpleMilitary_BombDisposal_White.png
+Dependencies: []

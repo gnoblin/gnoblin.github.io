@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3606014853
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6a53a16dce289e90a391fcc1d4620b29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fd99c5e9ad8f0f80da6ba03142e9c82
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundleRes/Textures/SimplePeople_Punk.png
+Dependencies: []
